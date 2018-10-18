@@ -15,4 +15,7 @@ This notebook will allow the user to perform a K-fold cross validation test on y
 ## Optimal Threshold Analysis 
 This notebook can be used to search for the optimal value of the confidence level threshold to use in your Waston Assistant workspace.
 
+## N-Gram Testing 
+This notebook will be used for diagnosis of incorrect intent detection problem. We want to use unigrams, bigrams and trigrams to do so.
 
+The idea is that each intent is sensitive to particular words/combination of words. The scope is to find a fast way to detect why, for instance, a testing phrase didn't trigger the right intent.This notebook will help the user understanding why which words and in which positions are the most important in the intent detection phase. 
