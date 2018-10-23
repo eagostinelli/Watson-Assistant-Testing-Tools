@@ -1,9 +1,0 @@
-text	intent
-who are you	General_About_You
-I lost my job	situation_unemployed
-I lost my business	situation_unemployed
-I lost my husband	red_bereavement
-can't pay my bills anymore	situation_vulnerable
-I'm being signed off sick	situation_sickness
-got fired last month	situation_unemployed
-I want an icecream	situation_vulnerable
