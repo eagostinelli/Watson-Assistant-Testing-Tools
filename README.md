@@ -1,3 +1,8 @@
+# IMPORTANT
+this repository is not up-to-date. Please see https://github.com/IBM-DSE/Watson-Assistant-Testing-Tools for an updated version of this repository
+
+---------------------
+
 # Waton-Assistant-Testing-Tools
 collection of Jupyter Notebook in Python that can be used to test your Watson Assistant workspace
 
